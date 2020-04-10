@@ -1,7 +1,6 @@
 <?php
 /*
-Rate and edit movies
-Mike Germino
+Rate movies
 */
 require('header.inc');
 ?>
